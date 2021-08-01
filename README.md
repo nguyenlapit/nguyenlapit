@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nguyenlapit
+- 👀 I’m a web developer.
+- 📫 You can contact me via email hi@nguyenlap.net
